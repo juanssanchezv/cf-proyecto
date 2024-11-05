@@ -7,6 +7,13 @@ Avatares es un proyecto de muestra diseñado para demostrar el uso de contenedor
 
 Más Información: [Enlace](./ABOUT.md)
 
+## Arquitectura
+![](./docs/3.png)
+
+## Funcionamiento
+
+![](./docs/4.png)
+
 #### Componentes del Proyecto:
 1. **Backend de API (Python 3.10):**
    - El backend de la API está desarrollado en Python 3.10 utilizando un framework web como Flask.
